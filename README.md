@@ -1,6 +1,8 @@
-# **[freeCodeCamp](https://www.freecodecamp.org/) - [Front End Libraries Projects](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/) - [Build a Random Quote Machine]()**
+# **[freeCodeCamp](https://www.freecodecamp.org/) - [Front End Libraries Projects](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/) - [Build a Random Quote Machine](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine)**
 
 ## **Objective**: Build a [CodePen.io](https://codepen.io/) app that is functionally similar to this: <https://codepen.io/freeCodeCamp/full/qRZeGZ>.
+
+## Click [**here**](https://felipecosta332.github.io/build-a-random-quote-machine/) to access the finished live website
 
 ### Fulfill the below [user stories](https://en.wikipedia.org/wiki/User_story) and get all of the tests to pass. Give it your own personal style.
 
@@ -32,6 +34,6 @@ You can build your project by forking [this CodePen pen](https://codepen.io/free
 
 Once you're done, submit the URL to your working project with all its tests passing.
 
-### **URL submitted:**
+### **URL submitted**: <https://felipecosta332.github.io/build-a-random-quote-machine/>
 
 **Note**: Twitter does not allow links to be loaded in an iframe. Try using the `target="_blank"` or `target="_top"` attribute on the `#tweet-quote` element if your tweet won't load. `target="_top"` will replace the current tab so make sure your work is saved.
